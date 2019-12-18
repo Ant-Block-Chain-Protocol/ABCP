@@ -1,5 +1,34 @@
 # ABCP
 Ants block chain protocol (abbreviated as ant coin: ABCP) is a multi-decentralized interactive protocol. It runs on the ant blockchain and has different forms of heterogeneous multi-centered interaction protocols, which is convenient for developers. Developed asset management applications; the contract layer uses the creation contract and control contract for asset issuance and management, and supports the extended utxo model butxo at the bottom.
+We have proposed a system for electronic transactions without relying on trust. We started with the usual
+framework of coins made from digital signatures, which provides strong control of ownership, but is
+incomplete without a way to prevent double-spending. To solve this, we proposed a peer-to-peer network
+using proof-of-work to record a public history of transactions that quickly becomes computationally
+impractical for an attacker to change if honest nodes control a majority of CPU power. The network is robust
+in its unstructured simplicity. Nodes work all at once with little coordination. They do not need to be
+identified, since messages are not routed to any particular place and only need to be delivered on a best effort
+basis. Nodes can leave and rejoin the network at will, accepting the proof-of-work chain as proof of what
+happened while they were gone. They vote with their CPU power, expressing their acceptance of valid blocks
+by working on extending them and rejecting invalid blocks by refusing to work on them. Any needed rules
+and incentives can be enforced with this consensus mechanism.
+The A Multi-Decentralized Interaction Protocol protocol was originally conceived as an upgraded version of a
+cryptocurrency, providing advanced features such as on-blockchain escrow, withdrawal limits, financial
+contracts, gambling markets and the like via a highly generalized programming language. The A
+Multi-Decentralized Interaction Protocol protocol would not "support" any of the applications directly, but the
+existence of a Turing-complete programming language means that arbitrary contracts can theoretically be
+created for any transaction type or application. What is more interesting about A Multi-Decentralized
+Interaction Protocol, however, is that the A Multi-Decentralized Interaction Protocol protocol moves far
+beyond just currency. Protocols around decentralized file storage, decentralized computation and decentralized
+prediction markets, among dozens of other such concepts, have the potential to substantially increase the
+efficiency of the computational industry, and provide a massive boost to other peer-to-peer protocols by
+adding for the first time an economic layer. Finally, there is also a substantial array of applications that have
+nothing to do with money at all.
+The concept of an arbitrary state transition function as implemented by the A Multi-Decentralized Interaction
+Protocol protocol provides for a platform with unique potential; rather than being a closed-ended,
+single-purpose protocol intended for a specific array of applications in data storage, gambling or finance, A
+Multi-Decentralized Interaction Protocol is open-ended by design, and we believe that it is extremely
+well-suited to serving as a foundational layer for a very large number of both financial and non-financial
+protocols in the years to come
 
 GPEI Core
 ==============
