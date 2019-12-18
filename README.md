@@ -1,0 +1,2 @@
+# ABCP
+Ants block chain protocol (abbreviated as ant coin: ABCP) is a multi-decentralized interactive protocol. It runs on the ant blockchain and has different forms of heterogeneous multi-centered interaction protocols, which is convenient for developers. Developed asset management applications; the contract layer uses the creation contract and control contract for asset issuance and management, and supports the extended utxo model butxo at the bottom.
