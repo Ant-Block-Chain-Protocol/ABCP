@@ -276,5 +276,5 @@ FAQ
  
 License
 -------
-ABCP Core is under the MIT license. See [LICENSE](https://github.com/Ant-Block-Chain-Protocol/ABCP/blob/master/LICENSE.txt)
+ABCP Core is under the MIT license. See [LICENSE](https://github.com/Ant-Block-Chain-Protocol/ABCP/blob/master/LICENSE)
 for more information.
